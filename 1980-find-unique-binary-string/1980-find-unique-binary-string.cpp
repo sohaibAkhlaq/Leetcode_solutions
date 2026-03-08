@@ -1,32 +1,28 @@
 class Solution {
-private:
-    void func(unordered_set<string> &st, string &temp, int n ) {
-        if( temp.size() == n ) {
-            st.insert(temp) ;
-            return ;
-        }
-
-        temp.push_back('1') ;
-        func(st, temp , n ) ;
-        temp.pop_back() ;
-
-        temp.push_back('0') ;
-        func(st, temp , n ) ;
-        temp.pop_back() ;
-    }
-
 public:
-    string findDifferentBinaryString(vector<string>& nums) {
-        int n = nums.size() ;
-        unordered_set<string> st ;
-        string temp = "" ;
-
-        func(st, temp, n ) ;
-
-        for( auto s : nums ) {
-            if( st.find(s ) != st.end() ) st.erase(s) ;
+    string b(int r,int q){
+        string t="";
+        while(r!=0){
+            int y=r%2;
+            r=r/2;
+            t=to_string(y)+t;
         }
-
-        return *st.begin() ;
+        while(t.size()<q){
+            t='0'+t;
+        }
+        return t;
+    }
+    string findDifferentBinaryString(vector<string>& nums) {
+        int j=0;
+        sort(nums.begin(),nums.end());
+        for(int i=0;i<=nums.size();i++){
+            string c=b(i,nums[0].size());
+            if(j<nums.size()&&c==nums[j]){
+                j++;
+            }else{
+                return c;
+            }
+        }
+        return "";
     }
 };
