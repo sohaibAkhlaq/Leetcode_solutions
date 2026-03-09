@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
+| [2769-find-the-maximum-achievable-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## String
 | Problem Name | Difficulty |
