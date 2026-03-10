@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## String
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Recursion
 | Problem Name | Difficulty |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
