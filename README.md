@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
+| [1009-complement-of-base-10-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
