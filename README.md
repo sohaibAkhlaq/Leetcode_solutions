@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
 | Problem Name | Difficulty |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0367-valid-perfect-square](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
