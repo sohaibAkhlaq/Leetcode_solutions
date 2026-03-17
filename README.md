@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->
