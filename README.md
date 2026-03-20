@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Math
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 <!---LeetCode Topics End-->
