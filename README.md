@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
@@ -74,11 +75,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
