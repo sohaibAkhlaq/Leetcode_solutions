@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2906-construct-product-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2906-construct-product-matrix/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
