@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2906-construct-product-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [2769-find-the-maximum-achievable-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2906-construct-product-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2906-construct-product-matrix/) | Medium |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
