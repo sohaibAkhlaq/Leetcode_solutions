@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
