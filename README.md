@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0367-valid-perfect-square/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0728-self-dividing-numbers](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0728-self-dividing-numbers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
