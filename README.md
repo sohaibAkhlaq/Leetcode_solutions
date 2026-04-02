@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0007-reverse-integer/) | Medium |
+| [0013-roman-to-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
