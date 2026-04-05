@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0258-add-digits/) | Easy |
+| [0657-robot-return-to-origin](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Recursion
