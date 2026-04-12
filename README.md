@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Math
