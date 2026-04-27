@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0874-walking-robot-simulation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Binary Tree
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1722-minimize-hamming-distance-after-swap-operations/) | Medium |
 ## Trie
@@ -228,5 +232,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 <!---LeetCode Topics End-->
