@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0027-remove-element/) | Easy |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
