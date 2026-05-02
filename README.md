@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0492-construct-the-rectangle](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0788-rotated-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0788-rotated-digits/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2769-find-the-maximum-achievable-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0062-unique-paths](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0062-unique-paths/) | Medium |
 | [0396-rotate-function](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
+| [0788-rotated-digits](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0788-rotated-digits/) | Medium |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/3742-maximum-path-score-in-a-grid/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
