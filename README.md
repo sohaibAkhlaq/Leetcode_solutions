@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
