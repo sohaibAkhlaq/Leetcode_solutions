@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0396-rotate-function](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0396-rotate-function/) | Medium |
+| [0500-keyboard-row](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [0500-keyboard-row](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0796-rotate-string/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0500-keyboard-row](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0500-keyboard-row/) | Easy |
 | [0874-walking-robot-simulation](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/0874-walking-robot-simulation/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2615-sum-of-distances](https://github.com/sohaibAkhlaq/Leetcode_solutions/tree/main/2615-sum-of-distances/) | Medium |
